@@ -5,6 +5,7 @@
   "author": "Ryota Kameoka <kameoka.ryota@gmail.com>",
   "description": "Hubot for ryota-ka",
   "dependencies": {
+    "async": "^0.9.0",
     "cron": "^1.0.9",
     "hubot": "^2.12.0",
     "hubot-diagnostics": "0.0.1",
